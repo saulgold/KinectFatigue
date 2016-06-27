@@ -1,0 +1,8 @@
+<Game>
+<Network>
+<IP>localhost/test
+</IP>
+<Port>443
+</Port>
+</Network>
+</Game>
